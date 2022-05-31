@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "edu.weber.cs.w01378454.cs3270a8",
+  "variantName": "debug",
+  "elements": []
+}

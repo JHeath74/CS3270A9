@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">CS3270A9 Heath</string>
+    <string name="id">ID:</string>
+    <string name="name_required">Name(Required):</string>
+    <string name="course_code">Course Code:</string>
+    <string name="start_at">Start At:</string>
+    <string name="end_at">End At:</string>
+    <string name="save">Save</string>
+    <string name="list_all_courses">List All Courses</string>
+    <string name="edit_selected_course">Edit Selected Course</string>
+    <string name="delete_selected_course">Delete Selected Course</string>
+    <string name="add_new_course">Add New Course</string>
+    <string name="view_selected_course">View Selected Course</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="edit">Edit</string>
+    <string name="edit_course">Edit Course</string>
+    <string name="delete_course">Delete Course</string>
+    <string name="are_you_sure">Are You Sure?</string>
+    <string name="delete_warning">This will permanently delete the choosen course</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="title_activity_main">CS3270A9 Heath</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="confirm_deletion">Confirm Deletion</string>
+    <string name="savecourseinformation">SaveCourseInformation</string>
+    <string name="courselistfab">CourseListFab</string>
+    <string name="deleteOreditCourse">Delete Edit Course</string>
+    <string name="editOrDeleteCourse">Edit or Delete Course</string>
+    <string name="update_from_canvas">updatefromcanvas</string>
+    <string name="newcourseadded">New Course Added</string>
+    <string name="selectedCourseEdited">Selected Course Edited</string>
+
+    <string name="course_name">Course Name</string>
+    <string name="deletecourse">Delete Course Shown</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="course_assignments">Course Assignments</string>
+    <string name="name">Name</string>
+    <string name="Description">Description</string>
+    <string name="due_at">Due At:</string>
+    <string name="points_possible">Points Possible</string>
+    <string name="exit">Exit</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

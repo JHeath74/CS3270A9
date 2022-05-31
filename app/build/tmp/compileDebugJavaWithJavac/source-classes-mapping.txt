@@ -1,0 +1,56 @@
+edu/weber/cs/w01378454/cs3270a9/MainActivity.java
+ edu.weber.cs.w01378454.cs3270a9.MainActivity
+edu/weber/cs/w01378454/cs3270a9/DB/Course.java
+ edu.weber.cs.w01378454.cs3270a9.DB.Course
+edu/weber/cs/w01378454/cs3270a9/DB/CourseDAO.java
+ edu.weber.cs.w01378454.cs3270a9.DB.CourseDAO
+edu/weber/cs/w01378454/cs3270a9/DeleteConfirmationDialogFragment.java
+ edu.weber.cs.w01378454.cs3270a9.DeleteConfirmationDialogFragment
+ edu.weber.cs.w01378454.cs3270a9.DeleteConfirmationDialogFragment$1
+ edu.weber.cs.w01378454.cs3270a9.DeleteConfirmationDialogFragment$2
+ edu.weber.cs.w01378454.cs3270a9.DeleteConfirmationDialogFragment$3
+edu/weber/cs/w01378454/cs3270a9/FullScreenDeleteConfirmationDialogFragment.java
+ edu.weber.cs.w01378454.cs3270a9.FullScreenDeleteConfirmationDialogFragment
+ edu.weber.cs.w01378454.cs3270a9.FullScreenDeleteConfirmationDialogFragment$1
+edu/weber/cs/w01378454/cs3270a9/CourseViewFragment.java
+ edu.weber.cs.w01378454.cs3270a9.CourseViewFragment
+ edu.weber.cs.w01378454.cs3270a9.CourseViewFragment$1
+ edu.weber.cs.w01378454.cs3270a9.CourseViewFragment$1$1
+edu/weber/cs/w01378454/cs3270a9/SecondFragment.java
+ edu.weber.cs.w01378454.cs3270a9.SecondFragment
+ edu.weber.cs.w01378454.cs3270a9.SecondFragment$1
+edu/weber/cs/w01378454/cs3270a9/AllCoursesViewModel.java
+ edu.weber.cs.w01378454.cs3270a9.AllCoursesViewModel
+edu/weber/cs/w01378454/cs3270a9/DB/AppDatabase.java
+ edu.weber.cs.w01378454.cs3270a9.DB.AppDatabase
+edu/weber/cs/w01378454/cs3270a9/FirstFragment.java
+ edu.weber.cs.w01378454.cs3270a9.FirstFragment
+ edu.weber.cs.w01378454.cs3270a9.FirstFragment$1
+edu/weber/cs/w01378454/cs3270a9/GetCanvasCourses.java
+ edu.weber.cs.w01378454.cs3270a9.GetCanvasCourses
+ edu.weber.cs.w01378454.cs3270a9.GetCanvasCourses$OnCourseListComplete
+edu/weber/cs/w01378454/cs3270a9/CourseEditFragment.java
+ edu.weber.cs.w01378454.cs3270a9.CourseEditFragment
+ edu.weber.cs.w01378454.cs3270a9.CourseEditFragment$1
+ edu.weber.cs.w01378454.cs3270a9.CourseEditFragment$2
+edu/weber/cs/w01378454/cs3270a9/FullScreenAssignmentsInfoFragment.java
+ edu.weber.cs.w01378454.cs3270a9.FullScreenAssignmentsInfoFragment
+ edu.weber.cs.w01378454.cs3270a9.FullScreenAssignmentsInfoFragment$1
+ edu.weber.cs.w01378454.cs3270a9.FullScreenAssignmentsInfoFragment$2
+ edu.weber.cs.w01378454.cs3270a9.FullScreenAssignmentsInfoFragment$3
+ edu.weber.cs.w01378454.cs3270a9.FullScreenAssignmentsInfoFragment$4
+edu/weber/cs/w01378454/cs3270a9/Authorization.java
+ edu.weber.cs.w01378454.cs3270a9.Authorization
+edu/weber/cs/w01378454/cs3270a9/CourseListFragment.java
+ edu.weber.cs.w01378454.cs3270a9.CourseListFragment
+ edu.weber.cs.w01378454.cs3270a9.CourseListFragment$1
+ edu.weber.cs.w01378454.cs3270a9.CourseListFragment$2
+ edu.weber.cs.w01378454.cs3270a9.CourseListFragment$3
+edu/weber/cs/w01378454/cs3270a9/BuildConfig.java
+ edu.weber.cs.w01378454.cs3270a9.BuildConfig
+edu/weber/cs/w01378454/cs3270a9/CourseRecyclerAdapter.java
+ edu.weber.cs.w01378454.cs3270a9.CourseRecyclerAdapter
+ edu.weber.cs.w01378454.cs3270a9.CourseRecyclerAdapter$1
+ edu.weber.cs.w01378454.cs3270a9.CourseRecyclerAdapter$2
+ edu.weber.cs.w01378454.cs3270a9.CourseRecyclerAdapter$AllCourseViewHolder
+ edu.weber.cs.w01378454.cs3270a9.CourseRecyclerAdapter$OnListChange
